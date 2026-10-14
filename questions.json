@@ -1,0 +1,352 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "Zaštitna oprema i sigurnost",
+      "question": "Koja je obavezna zaštitna oprema za sve sudionike?",
+      "answer": "Zaštitne naočale su obavezne; nitko ne smije ući na trening ili susret bez njih."
+    },
+    {
+      "id": 2,
+      "category": "Zaštitna oprema i sigurnost",
+      "question": "Tko je odgovoran za kvalitetu i sigurnosnu ocjenu zaštitnih naočala?",
+      "answer": "Isključivo sam sudionik odgovoran je da nosi naočale odgovarajuće kvalitete i otpornosti na udarce."
+    },
+    {
+      "id": 3,
+      "category": "Zaštitna oprema i sigurnost",
+      "question": "Kada se preporučuje stavljanje i skidanje zaštitnih naočala?",
+      "answer": "Od trenutka kad prva osoba počne rukovati s replikom do trenutka kad zadnja osoba spremi svoju repliku."
+    },
+    {
+      "id": 4,
+      "category": "Zaštitna oprema i sigurnost",
+      "question": "Kakav je točan postupak ako se zaštitne naočale zamagle tijekom igre?",
+      "answer": "Čučni ili lezi, okreni lice prema tlu, skini i očisti naočale, pa ih odmah vrati na oči prije nego digneš glavu."
+    },
+    {
+      "id": 5,
+      "category": "Zaštitna oprema i sigurnost",
+      "question": "Gdje je dopušteno testiranje replika prije početka događaja?",
+      "answer": "Isključivo unutar označenog i određenog testnog područja koje odredi organizator."
+    },
+    {
+      "id": 6,
+      "category": "Zaštitna oprema i sigurnost",
+      "question": "Koje su kazne za kršenje postupka kod zamagljenih naočala?",
+      "answer": "1. prekršaj: usmena opomena; 2. prekršaj na istom događaju: automatsko isključenje."
+    },
+    {
+      "id": 7,
+      "category": "Replike, magazine i chronograph",
+      "question": "Koje vrste magazina su dopuštene na događajima?",
+      "answer": "Isključivo Low-Cap, Mid-Cap i Real-Cap magazini."
+    },
+    {
+      "id": 8,
+      "category": "Replike, magazine i chronograph",
+      "question": "Koji sustavi pogona replika su dozvoljeni?",
+      "answer": "AEG, GBB, NBB, HPA sustavi i opružne (spring) replike."
+    },
+    {
+      "id": 9,
+      "category": "Replike, magazine i chronograph",
+      "question": "Koja su ograničenja kinetičke energije i streljiva za jurišne puške i pištolje?",
+      "answer": "Do 1,49 J (maksimalna tolerancija 1,56 J) i limit streljiva od 600 BB-ova."
+    },
+    {
+      "id": 10,
+      "category": "Replike, magazine i chronograph",
+      "question": "Koja su energetska ograničenja i minimalna udaljenost za strojnice (LMG/HMG)?",
+      "answer": "Do 1,88 J (maksimalna tolerancija 1,96 J) uz minimalnu udaljenost angažmana od 15 metara."
+    },
+    {
+      "id": 11,
+      "category": "Replike, magazine i chronograph",
+      "question": "Koji su limiti streljiva za teške, a koji za lake strojnice?",
+      "answer": "Teške strojnice (PKM, M249 itd.) imaju neograničeno streljivo (koliko box magova nose); lake strojnice (RPK, IAR itd.) imaju limit od 1000 BB-ova."
+    },
+    {
+      "id": 12,
+      "category": "Replike, magazine i chronograph",
+      "question": "Smiju li se strojnice koristiti unutar zgrada?",
+      "answer": "Ne. Strojnici je strogo zabranjeno pucati unutar zgrada."
+    },
+    {
+      "id": 13,
+      "category": "Replike, magazine i chronograph",
+      "question": "Koji su zahtjevi i limiti za DMR (Designated Marksman Rifle)?",
+      "answer": "Do 2,32 J (maks. tolerancija 2,42 J), minimalna udaljenost 20 m, obavezna povećavajuća optika, samo realni DMR model i mehanički zaključano na semi-auto."
+    },
+    {
+      "id": 14,
+      "category": "Replike, magazine i chronograph",
+      "question": "Smiju li se DMR replike koristiti unutar zgrada?",
+      "answer": "Ne. DMR replikama je strogo zabranjeno pucati unutar zgrada."
+    },
+    {
+      "id": 15,
+      "category": "Replike, magazine i chronograph",
+      "question": "Koji su limiti i oprema za bolt-action snajpere?",
+      "answer": "Do 3,34 J (maks. tolerancija 3,46 J), minimalna udaljenost 30 m, obavezna povećavajuća optika i obavezan sidearm."
+    },
+    {
+      "id": 16,
+      "category": "Replike, magazine i chronograph",
+      "question": "Smiju li bolt-action snajperi pucati unutar zgrada?",
+      "answer": "Ne. Snajperima je strogo zabranjeno pucati unutar zgrada."
+    },
+    {
+      "id": 17,
+      "category": "Replike, magazine i chronograph",
+      "question": "Što se događa ako replika premašuje dopuštenu kinetičku energiju?",
+      "answer": "Replika se predaje organizatoru na čuvanje (uz potvrdu) i zabranjuje se korištenje tijekom događaja."
+    },
+    {
+      "id": 18,
+      "category": "Replike, magazine i chronograph",
+      "question": "Kako se mjeri energija replike na chronographu?",
+      "answer": "Prosječnom kinetičkom energijom od 5 uzastopnih hitaca, uz BB težinu koju igrač namjerava koristiti u igri."
+    },
+    {
+      "id": 19,
+      "category": "Replike, magazine i chronograph",
+      "question": "Koja je kazna za pucanje ispod minimalne udaljenosti kategorije?",
+      "answer": "1. prekršaj: usmena opomena; 2. prekršaj na istom susretu: automatsko isključenje."
+    },
+    {
+      "id": 20,
+      "category": "Indoor i CQB pravila",
+      "question": "Pod kojim uvjetom je full-auto dozvoljen unutar zgrada?",
+      "answer": "Samo ako kinetička energija replike ne prelazi 0,84 J te je registrirana i posebno označena od organizatora."
+    },
+    {
+      "id": 21,
+      "category": "Indoor i CQB pravila",
+      "question": "Koja udaljenost od vanjskog zida broji kao indoor igra?",
+      "answer": "Biti unutar 2 metra od vanjskog zida smatra se indoor igrom i zabranjuje full-auto prema van."
+    },
+    {
+      "id": 22,
+      "category": "Indoor i CQB pravila",
+      "question": "Koja je kazna za nedozvoljeni full-auto unutar zgrade?",
+      "answer": "1. prekršaj: MASH na 30 minuta; 2. prekršaj: automatsko isključenje s događaja."
+    },
+    {
+      "id": 23,
+      "category": "Noćna igra i hladno oružje",
+      "question": "Koja je oprema obavezna na replikama tijekom noćnih igara?",
+      "answer": "Tracer jedinica s tracer BB-ovima ili simulator plamena cijevi vidljiv s najmanje 30 metara."
+    },
+    {
+      "id": 24,
+      "category": "Noćna igra i hladno oružje",
+      "question": "Koje vrste replika su izuzete od obaveznog tracer-a noću?",
+      "answer": "Pištolji, sačmarice i bacači granata."
+    },
+    {
+      "id": 25,
+      "category": "Noćna igra i hladno oružje",
+      "question": "Koje su kazne za kršenje tracer pravila u noćnoj igri?",
+      "answer": "1. prekršaj: MASH na 60 minuta; 2. prekršaj: isključenje + službena prijava; ponavljanje na više događaja: zabrana od 3 mjeseca."
+    },
+    {
+      "id": 26,
+      "category": "Noćna igra i hladno oružje",
+      "question": "Smiju li se noževi, bajuneti ili bodeži koristiti kao oružje?",
+      "answer": "Zabranjeno hladno oružje nije dozvoljeno; alati poput noža ili mačete dopušteni su isključivo kao alat, nikad protiv sudionika."
+    },
+    {
+      "id": 27,
+      "category": "Noćna igra i hladno oružje",
+      "question": "Što se događa ako alat uzrokuje ozljedu sudionika?",
+      "answer": "Prijavljuje se izravno MUP-u i procesuira se prema hrvatskom zakonu."
+    },
+    {
+      "id": 28,
+      "category": "Prijevoz, uniforme i dolazak",
+      "question": "Kako se replike moraju transportirati do i s događaja?",
+      "answer": "Na safe, bez magazina i baterije, zatvorene u kutiji, torbi, futroli ili prtljažniku vozila, skriveno od javnog pogleda."
+    },
+    {
+      "id": 29,
+      "category": "Prijevoz, uniforme i dolazak",
+      "question": "Smije li se replika predati neiskusnoj osobi?",
+      "answer": "Ne. Predaja replike osobi neupućenoj u airsoft i sigurnosna pravila strogo je zabranjena."
+    },
+    {
+      "id": 30,
+      "category": "Prijevoz, uniforme i dolazak",
+      "question": "Je li putovanje na događaj u punoj vojnoj uniformi dopušteno?",
+      "answer": "Ne. Putovanje u potpunoj vojnoj uniformi je zabranjeno; dijelovi uniforme moraju se miješati s civilnom odjećom."
+    },
+    {
+      "id": 31,
+      "category": "Prijevoz, uniforme i dolazak",
+      "question": "Kakav je točan redoslijed radnji po dolasku na događaj?",
+      "answer": "1. Registracija; 2. Administracija i kotizacija; 3. Briefing pravila; 4. Priprema opreme; 5. Scenario briefing; 6. Igra; 7. Pakiranje opreme."
+    },
+    {
+      "id": 32,
+      "category": "Prijevoz, uniforme i dolazak",
+      "question": "Koja je kazna za kršenje redoslijeda dolaska?",
+      "answer": "Isključenje pojedinca sa susreta i formalna opomena klubu/timu."
+    },
+    {
+      "id": 33,
+      "category": "Prijevoz, uniforme i dolazak",
+      "question": "Koja je minimalna dob za sudjelovanje na događajima?",
+      "answer": "Sudionici moraju imati najmanje 18 godina."
+    },
+    {
+      "id": 34,
+      "category": "Prijevoz, uniforme i dolazak",
+      "question": "Jesu li politički, nacionalni, vjerski ili navijački simboli dopušteni?",
+      "answer": "Strogo zabranjeni; organizator daje opomenu, zatim slijedi trenutno isključenje i službena prijava."
+    },
+    {
+      "id": 35,
+      "category": "Tvari, pirotehnika i radio",
+      "question": "Koji je zakonski prag alkohola u krvi za sudionike?",
+      "answer": "Ne smije prelaziti 0,50 g/kg (0,5‰) alkohola u krvi, niti biti pod utjecajem droga ili lijekova koji narušavaju sposobnost."
+    },
+    {
+      "id": 36,
+      "category": "Tvari, pirotehnika i radio",
+      "question": "Što igrač mora učiniti ako uoči nekoga pod utjecajem?",
+      "answer": "Odmah prijaviti osobu organizatoru događaja."
+    },
+    {
+      "id": 37,
+      "category": "Tvari, pirotehnika i radio",
+      "question": "Koje su kazne za prekršaje alkohola ili droga?",
+      "answer": "Trenutno isključenje sa susreta, zabrana od 1 do 6 mjeseci (doživotna za ponavljače); neudruženi igrači zabranjeni su dok ne uđu u priznati klub."
+    },
+    {
+      "id": 38,
+      "category": "Tvari, pirotehnika i radio",
+      "question": "Jesu li eksplozivne naprave dopuštene tijekom susreta?",
+      "answer": "Strogo zabranjene, osim ako ih odobre organizator i svi zapovjednici sudjelujućih timova."
+    },
+    {
+      "id": 39,
+      "category": "Tvari, pirotehnika i radio",
+      "question": "Koja je kazna za korištenje neovlaštenih eksplozivnih naprava?",
+      "answer": "Trenutno isključenje pojedinca i cijelog kluba/tima te zabrana od 6 mjeseci za cijeli tim."
+    },
+    {
+      "id": 40,
+      "category": "Tvari, pirotehnika i radio",
+      "question": "Koja pirotehnika i mine su dopuštene?",
+      "answer": "Certificirane dimne bombe, TAG granate te mehaničke/plinske/piro BB mine odobrene od organizatora (suzavac/iritansi zabranjeni)."
+    },
+    {
+      "id": 41,
+      "category": "Tvari, pirotehnika i radio",
+      "question": "Je li prisluškivanje radio komunikacije dopušteno?",
+      "answer": "Slušanje frekvencija neprijateljskog tima dopušteno je osim ako je ograničeno; ometanje ili slušanje kanala organizatora strogo je zabranjeno."
+    },
+    {
+      "id": 42,
+      "category": "Pogoci, medic i fair play",
+      "question": "Kako pogođeni igrač mora signalizirati da je van?",
+      "answer": "Viknuti „HIT“ ili „POGOĐEN“, staviti jarko crveni ili narančasti reflektirajući prsluk na glavu/tijelo (noću crveno treperavo svjetlo), sjesti/kleknuti i zvati „MEDIC“."
+    },
+    {
+      "id": 43,
+      "category": "Pogoci, medic i fair play",
+      "question": "Koju komunikaciju smiju imati pogođeni igrači?",
+      "answer": "Nikakvu; ne smiju razgovarati sa živim/mrtvim igračima, davati info niti služiti kao fizički cover."
+    },
+    {
+      "id": 44,
+      "category": "Pogoci, medic i fair play",
+      "question": "Broje li se rikošeti ili hici kroz grmlje kao valjani pogoci?",
+      "answer": "Rikošeti od stabala/covera NE broje; hici koji prolaze kroz grmlje ili snijeg DA broje kao valjani pogoci."
+    },
+    {
+      "id": 45,
+      "category": "Pogoci, medic i fair play",
+      "question": "Kako se ispravno izvodi „Silent Kill“?",
+      "answer": "Uhvatiti metu objema rukama (izbjegavajući glavu/vrat) i jasno reći „silent kill“ 3 puta; meta odmah pada bez zvanja hita."
+    },
+    {
+      "id": 46,
+      "category": "Pogoci, medic i fair play",
+      "question": "Koja su pravila za „Bang-Bang“ verbalnu eliminaciju?",
+      "answer": "Unutar 5 metara, s izravnim vizualnim kontaktom i replikom usmjerenom na igrača, zatim ispaliti 1 BB sigurno u stranu radi potvrde napunjenog magazina."
+    },
+    {
+      "id": 47,
+      "category": "Pogoci, medic i fair play",
+      "question": "Je li „blind firing“ (Blind Shot) dopušten?",
+      "answer": "Strogo zabranjen; 1. prekršaj: MASH 60 minuta + opomena; 2. prekršaj: isključenje sa susreta."
+    },
+    {
+      "id": 48,
+      "category": "Pogoci, medic i fair play",
+      "question": "Što je pravilo „STOP“ i kada se smije zvati?",
+      "answer": "Trenutno zaustavlja igru zbog stvarnih hitnih situacija (civili/životinje na terenu, ozljede, požar/električne opasnosti); neovlašteno korištenje se kažnjava."
+    },
+    {
+      "id": 49,
+      "category": "Pogoci, medic i fair play",
+      "question": "Što igrač mora učiniti ako civili uđu u igralište?",
+      "answer": "Viknuti „STOP CIVILI!“, odmah prestati pucati i prići im objasniti da je u tijeku airsoft igra."
+    },
+    {
+      "id": 50,
+      "category": "In-game moderatori i zapovjedništvo",
+      "question": "Kako se In-Game moderatori prepoznaju na terenu?",
+      "answer": "Dok promatraju nose plavi reflektirajući prsluk; kad aktivno interveniraju, nose žuti reflektirajući prsluk i vikaju „In Game moderator“."
+    },
+    {
+      "id": 51,
+      "category": "In-game moderatori i zapovjedništvo",
+      "question": "Kako se In-Game moderator vraća u normalnu igru nakon intervencije?",
+      "answer": "Odmakne se najmanje 100 metara, čeka 5 minuta, skine žuti prsluk i nastavi igrati."
+    },
+    {
+      "id": 52,
+      "category": "In-game moderatori i zapovjedništvo",
+      "question": "Što se događa ako se igrač ozlijedi tijekom igre?",
+      "answer": "Igra se odmah zaustavlja i obavještava se organizator koji odlučuje nastavlja li se susret."
+    },
+    {
+      "id": 53,
+      "category": "In-game moderatori i zapovjedništvo",
+      "question": "Je li poštivanje lanca zapovijedanja obavezno?",
+      "answer": "Da; 1. odbijanje: opomena + 60 minuta u MASH-u; 2. odbijanje: isključenje; ponavljanje: zabrana od 1 do 12 mjeseci."
+    },
+    {
+      "id": 54,
+      "category": "Laseri, vozila, štitovi i disciplina",
+      "question": "Koje vrste lasera su dopuštene tijekom susreta?",
+      "answer": "Samo tvornički laseri korišteni kao elementi scenarija."
+    },
+    {
+      "id": 55,
+      "category": "Laseri, vozila, štitovi i disciplina",
+      "question": "Koja je maksimalna dopuštena brzina vozila na terenu?",
+      "answer": "Najviše 25 km/h."
+    },
+    {
+      "id": 56,
+      "category": "Laseri, vozila, štitovi i disciplina",
+      "question": "Kako se vozila eliminiraju tijekom igre?",
+      "answer": "Pogotkom RPG/Zolja BB bacača, 40 mm granate, TAG granate ili eliminacijom vozača (bočni prozori vozača/suvozača moraju biti spušteni)."
+    },
+    {
+      "id": 57,
+      "category": "Laseri, vozila, štitovi i disciplina",
+      "question": "Koji su parametri za taktičke štitove?",
+      "answer": "Veliki (55–65 × 110–130 cm, ≥10 kg), srednji (50–55 × 95–105 cm, ≥7 kg), mali (45–50 × 85–90 cm, ≥5 kg); svi moraju imati otvor za gledanje."
+    },
+    {
+      "id": 58,
+      "category": "Laseri, vozila, štitovi i disciplina",
+      "question": "Kako se uništava taktički štit?",
+      "answer": "Izravnim pogotkom 40 mm granate ili RPG/Zolja bacača; nositelj štita također se smatra pogođenim."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+### **Category 1: General Provisions &amp; Scope**
+
+1. **What does the Rulebook define?** It defines specific rules and required actions binding on all members and any associations or individuals participating in events using rules[1].
+2. **Can restrict an individual or club from attending events?** Yes, member clubs can decide that a specific individual, team, or club is unwelcome at their event without being required to state a reason[1].
+
+---
+
+### **Category 2: Protective Equipment &amp; Safety Rules**
+
+1. **What is the mandatory protective equipment required for all participants?** Protective glasses are mandatory; no participant may enter a training session or match without them[2].
+2. **Who is responsible for the quality and safety rating of protective eyewear?** The individual participant is solely responsible for wearing glasses that meet appropriate quality and impact resistance standards[2].
+3. **When does recommend putting on and taking off protective glasses?** From the moment the first person begins handling a replica until the last person puts their replica away[2].
+4. **What is the exact procedure if protective glasses fog up during play?** Crouch or lie down, face towards the ground, remove and clean the glasses, and put them back on immediately before raising your head[3].
+5. **Where is replica testing permitted before an event begins?** Exclusively within the designated and marked test area specified by the organizer[3].
+6. **What are the penalties for violating the fogged glasses procedure?** A 1st infraction results in a verbal warning; a 2nd infraction at the same event results in automatic ejection[4].
+
+---
+
+### **Category 3: Replica Types, Magazines, &amp; Chronograph Limits**
+
+1. **What magazine types are permitted at events?** Exclusively Low-Cap, Mid-Cap, and Real-Cap magazines[4].
+2. **Which replica propulsion systems are allowed?** AEG, GBB, NBB, HPA systems, and spring-powered replicas[4].
+3. **What are the kinetic energy and ammo limits for Assault Rifles and Pistols?** Up to **1.49 J** (max tolerance **1.56 J**) with an ammo limit of **600 BBs**[5].
+4. **What are the energy limits and minimum distance for Machine Guns (LMG/HMG)?** Up to **1.88 J** (max tolerance **1.96 J**) with a minimum engagement distance of **15 meters**[5].
+5. **What are the ammo limits for Heavy vs. Light Machine Guns?** Heavy Machine Guns (PKM, M249, etc.) have unlimited ammo (as many box mags as carried); Light Machine Guns (RPK, IAR, etc.) have a **1,000 BB** limit[5].
+6. **Are Machine Guns allowed to fire inside buildings?** No, machine guns are strictly forbidden from firing inside buildings[6].
+7. **What are the requirements and limits for Designated Marksman Rifles (DMR)?** Up to **2.32 J** (max tolerance **2.42 J**), minimum engagement distance of **20 meters**, required magnification scope, real-world DMR model only, and mechanically locked to semi-auto[6][7].
+8. **Are DMR replicas permitted to operate inside buildings?** No, DMR replicas are strictly forbidden from firing inside buildings[7].
+9. **What are the limits and gear requirements for Bolt-Action Sniper Rifles?** Up to **3.34 J** (max tolerance **3.46 J**), minimum engagement distance of **30 meters**, required magnification scope, and mandatory sidearm[7].
+10. **Are Bolt-Action Sniper Rifles allowed to fire inside buildings?** No, sniper rifles are strictly forbidden from firing inside buildings[8].
+11. **What happens if a player's replica exceeds allowed kinetic energy limits?** The replica is handed over to the organizer for safekeeping (with a receipt issued) and banned from use during the event[8][9].
+12. **How is replica energy measured during chronograph checks?** By measuring the average kinetic energy across **5 consecutive shots** using the player's intended game BB weight[8].
+13. **What are the official chronograph models?** Xcortech X3200 MK1, MK2, and MK3[9].
+14. **What is the penalty for firing at a distance shorter than the category's minimum distance?** 1st violation: verbal warning; 2nd violation at the same match: automatic ejection[9].
+
+---
+
+### **Category 4: Indoor &amp; CQB Engagement Rules**
+
+1. **Under what condition is full-auto firing allowed inside buildings?** Only if the replica's kinetic energy does not exceed **0.84 J** and is registered and specially marked by the organizer[10].
+2. **What distance from an exterior wall counts as indoor play?** Being within **2 meters** of an exterior wall is classified as indoor play, prohibiting full-auto fire outward[10].
+3. **What is the penalty for unauthorized full-auto fire inside a building?** 1st infraction: sent to MASH for **30 minutes**; 2nd infraction: automatic ejection from the event[11].
+
+---
+
+### **Category 5: Night Play &amp; Cold Weapons Rules**
+
+1. **What equipment is mandatory on replicas during night games?** A tracer unit with tracer BBs or a muzzle flash simulator visible from at least **30 meters**[11].
+2. **Which replica types are exempt from mandatory tracer units at night?** Pistols, shotguns, and grenade launchers[12].
+3. **What are the penalties for night game tracer violations?** 1st infraction: sent to MASH for **60 minutes**; 2nd infraction: ejection + report; repeated offenses across events result in a **3-month ban**[12].
+4. **Are knives, bayonets, or daggers allowed as weapons?** Prohibited cold weapons are forbidden; tools like knives or machetes are permitted **exclusively as utility tools** and never against participants[13].
+5. **What happens if a tool causes injury to a participant?** It is reported directly to the Ministry of Internal Affairs (MUP) and prosecuted under Croatian law[13].
+
+---
+
+### **Category 6: Event Announcements &amp; Forum Guidelines**
+
+1. **Where must member events be officially announced?** On the official forum () under "Najava susreta" in a stickied thread[14].
+2. **How are member events highlighted in the official Calendar?** The event title is formatted in **bold lettering**[14].
+3. **When can a stickied member event thread be unlocked for public discussion?** Up to **14 days** prior to the event date[14].
+4. **What mandatory details must every event announcement include?** Event name, date (*dd.mm.yyyy*), location, time (*hh:mm–hh:mm*), organizer, fee/account info, theme/invitation status, and special notes[15][16].
+5. **Where else are member events promoted by ?** On the official website () and the official Facebook page[17].
+6. **How are non-member events displayed in the Event Calendar?** In normal text without special formatting; if a member event falls in the same month, the non-member event is omitted[17].
+7. **What thread restrictions apply to non-member announcements?** The thread must remain locked, allowing a maximum of **3 posts** by the author[18].
+8. **Can a non-member present rules as their own rules?** No, they must explicitly state that the event uses rules[16].
+9. **What happens to announcement threads inactive for over 2 months?** They are moved to the "Arhiva susreta" archive section[19].
+
+---
+
+### **Category 7: Transport, Uniforms, &amp; Arrival Procedures**
+
+1. **How must replicas be transported to and from an event?** Set to safe, magazine and battery removed, enclosed in a box, bag, case, or vehicle trunk hidden from public view[20].
+2. **Can a replica be handed to an inexperienced person?** No, giving a replica to anyone unfamiliar with airsoft operations or safety rules is strictly prohibited[21].
+3. **Is traveling to an event in a full military uniform permitted?** No, traveling in a complete military uniform is forbidden; uniform items must be mixed with civilian clothing[21].
+4. **What is the exact sequence of actions upon arriving at an event?**
+ 1. Registration; 2\. Administration &amp; fees; 3\. Rule briefing; 4\. Gear prep; 5\. Scenario briefing; 6\. Match play; 7\. Gear packing[22].
+5. **What is the penalty for violating the arrival sequence?** Ejection of the individual from the match and a formal warning issued to their club/team[23].
+6. **What is the minimum age requirement to participate in events?** Participants must be at least **18 years old**[24].
+7. **Are political, national, religious, or fan symbols allowed?** Strictly forbidden; organizers will issue a warning followed by immediate ejection and a report[24].
+
+---
+
+### **Category 8: Substances, Pyrotechnics, &amp; Radio Comms**
+
+1. **What is the legal blood alcohol threshold for participants?** Must not exceed **0.50 g/kg** (0.5‰) blood alcohol concentration or be under the influence of drugs/impairing medications[25].
+2. **What must a player do if they spot someone under the influence?** Report the individual immediately to the event organizer[26].
+3. **What are the consequences of making unverified post-event accusations of intoxication?** It is treated as a malicious false claim, resulting in disciplinary action and a forum ban[26].
+4. **What are the penalties for alcohol or drug infractions?** Immediate match ejection, a **1 to 6-month ban** (lifetime ban for repeat offenses); unaffiliated players are banned until joining a recognized club[26][27].
+5. **How can event organizers verify alcohol consumption?** Using a certified breathalyzer (calibrated within 6 months) or by calling the police[27].
+6. **Are explosive devices permitted during matches?** Explosive devices are strictly prohibited unless authorized by the organizer and all participating team commanders[28].
+7. **What is the penalty for using unauthorized explosive devices?** Immediate ejection of the individual and their entire club/team, plus a **6-month ban** for the entire team[28].
+8. **Which pyrotechnics and mines are permitted?** Certified smoke bombs, TAG grenades, and mechanical/gas/pyro BB mines approved by the organizer (tear gas/irritants forbidden)[29].
+9. **Is radio communication eavesdropping allowed?** Listening to enemy team frequencies is allowed unless restricted; jamming or listening to organizer channels is strictly forbidden[30].
+
+---
+
+### **Category 9: Hits, Medic, Elimination, &amp; Fair Play**
+
+1. **How must a hit player signal that they are out?** Shout "HIT" or "POGOĐEN", display a bright red or orange reflective vest on head/body (or red blinking light at night), sit/kneel down, and call "MEDIC"[31][32].
+2. **What communications are hit players allowed to make?** None; hit players cannot talk to live/dead players, give intel, or be used as physical cover[32][33].
+3. **Do ricochets or shots through bushes count as valid hits?** Ricochets off trees/cover do NOT count; shots traveling through bushes or snow DO count as valid hits[34].
+4. **How is a "Silent Kill" properly executed?** Grasp the target with both hands (avoiding head/neck) and clearly state "silent kill" 3 times; the target drops down immediately without calling hit[35].
+5. **What are the rules and conditions for a "Bang-Bang" verbal elimination?** Must be within **5 meters**, with direct line of sight and replica aimed at the player, followed by firing 1 BB safely to the side to confirm a loaded mag[36].
+6. **Is "blind firing" (Blind Shot) allowed?** Strictly forbidden; 1st offense: MASH for **60 minutes** \+ warning; 2nd offense: match ejection[34][37].
+7. **What is the "STOP" rule and when may it be called?** Halts play immediately for genuine emergencies (civilians/animals on field, injuries, fire/electrical hazards); unauthorized use is penalized[38][39].
+8. **What must a player do if civilians enter the game area?** Shout "STOP CIVILI!", halt all firing immediately, and approach them to explain that an airsoft game is underway[38].
+
+---
+
+### **Category 10: In-Game Moderators, Match End, &amp; Command Structure**
+
+1. **How are In-Game Moderators identified on the field?** They wear a blue reflective vest while observing; when actively intervening, they wear a yellow reflective vest and shout "In Game moderator"[40].
+2. **How does an In-Game Moderator return to normal play after intervening?** Move back at least **100 meters**, wait **5 minutes**, stow the yellow vest, and resume playing[40].
+3. **Who has the authority to declare the end of an event?** Exclusively the event organizer or official moderator[41][42].
+4. **What happens if a player suffers an injury during a game?** Play is halted immediately and the organizer is notified to decide whether the match continues[41].
+5. **What are the penalties for profanity, verbal abuse, or physical fights?** Warnings, match ejection, or long-term/lifetime bans; harassing civilians or animals carries an automatic **lifetime ban**[42].
+6. **Is following the established chain of command mandatory?** Yes; 1st refusal: warning + **60 minutes** in MASH; 2nd refusal: ejection; repeated offenses lead to a **1 to 12-month ban**[43].
+7. **What rules govern environmental littering during matches?** Littering in nature is forbidden; organizers are required to provide trash bags or bins in bases/MASH areas[44].
+
+---
+
+### **Category 11: Lasers, Vehicles, Shields, &amp; Disciplinary Commission**
+
+1. **What types of lasers are permitted during matches?** Only factory-made lasers used as scenario elements[45].
+2. **What is the maximum allowed speed limit for vehicles on the field?** Maximum **25 km/h**[46].
+3. **How are vehicles eliminated during play?** By being hit with an RPG/Zolja BB launcher, 40mm grenade, TAG grenade, or by eliminating the driver (driver/co-driver side windows must stay down)[46][47].
+4. **What are the parameters for Tactical Shields?** Large (55–65 × 110–130 cm, ≥10 kg), Medium (50–55 × 95–105 cm, ≥7 kg), Small (45–50 × 85–90 cm, ≥5 kg); all must feature a vision port[48][49].
+5. **How is a Tactical Shield destroyed?** By a direct hit from a 40mm grenade or RPG/Zolja launcher; the shield carrier is also considered hit[49].
+6. **How is the Disciplinary Commission formed and how does it vote?** Composed of all member clubs (excluding involved parties); decisions pass by a simple majority vote (**50% + 1**)[50][51].
