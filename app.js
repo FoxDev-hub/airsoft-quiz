@@ -1,15 +1,49 @@
 (() => {
   const PICK_COUNT = 3;
+  const USED_KEY = "kds-kviz-used-ids";
 
   const randomizeBtn = document.getElementById("randomizeBtn");
   const cardsEl = document.getElementById("cards");
   const statusEl = document.getElementById("status");
 
   let questions = [];
+  let usedIds = new Set();
+  let lastCycleReset = false;
 
   function setStatus(message, isError = false) {
     statusEl.textContent = message;
     statusEl.classList.toggle("status--error", isError);
+  }
+
+  function loadUsedIds() {
+    try {
+      const raw = localStorage.getItem(USED_KEY);
+      const parsed = raw ? JSON.parse(raw) : [];
+      usedIds = new Set(Array.isArray(parsed) ? parsed.map(Number) : []);
+    } catch {
+      usedIds = new Set();
+    }
+  }
+
+  function saveUsedIds() {
+    try {
+      localStorage.setItem(USED_KEY, JSON.stringify([...usedIds]));
+    } catch {
+      /* private mode / quota — ignore */
+    }
+  }
+
+  function validQuestionIds() {
+    return new Set(questions.map((q) => q.id));
+  }
+
+  function pruneUsedIds() {
+    const valid = validQuestionIds();
+    usedIds = new Set([...usedIds].filter((id) => valid.has(id)));
+  }
+
+  function unusedQuestions() {
+    return questions.filter((q) => !usedIds.has(q.id));
   }
 
   function shuffle(items) {
@@ -25,7 +59,34 @@
     if (questions.length < PICK_COUNT) {
       throw new Error("Nema dovoljno pitanja u bazi.");
     }
-    return shuffle(questions).slice(0, PICK_COUNT);
+
+    lastCycleReset = false;
+    let pool = unusedQuestions();
+
+    if (pool.length < PICK_COUNT) {
+      usedIds.clear();
+      lastCycleReset = true;
+      pool = questions.slice();
+    }
+
+    const picked = shuffle(pool).slice(0, PICK_COUNT);
+    for (const q of picked) {
+      usedIds.add(q.id);
+    }
+    saveUsedIds();
+    return picked;
+  }
+
+  function remainingCount() {
+    return Math.max(0, questions.length - usedIds.size);
+  }
+
+  function statusAfterPick() {
+    const left = remainingCount();
+    if (lastCycleReset) {
+      return `Novi krug — sva pitanja su bila iskorištena. Još ${left} u špilu.`;
+    }
+    return `Pitaj igrača — odgovor otvori tapom. Još ${left} u špilu.`;
   }
 
   function escapeHtml(text) {
@@ -72,7 +133,7 @@
     try {
       const picked = pickQuestions();
       renderCards(picked);
-      setStatus("Pitaj igrača — odgovor otvori tapom.");
+      setStatus(statusAfterPick());
     } catch (err) {
       setStatus(err.message || "Greška pri izvlaku.", true);
     }
@@ -108,8 +169,16 @@
       if (questions.length < PICK_COUNT) {
         throw new Error("Baza pitanja je prazna ili nepotpuna.");
       }
+      loadUsedIds();
+      pruneUsedIds();
+      saveUsedIds();
       randomizeBtn.disabled = false;
-      setStatus(`${questions.length} pitanja spremno. Klikni Randomize.`);
+      const left = remainingCount();
+      setStatus(
+        left === questions.length
+          ? `${questions.length} pitanja spremno. Klikni Randomize.`
+          : `${questions.length} pitanja · još ${left} u špilu. Klikni Randomize.`
+      );
     } catch (err) {
       console.error(err);
       setStatus("Neuspjelo učitavanje pitanja. Osvježi stranicu.", true);

@@ -297,53 +297,41 @@
     {
       "id": 50,
       "category": "In-game moderatori i zapovjedništvo",
-      "question": "Kako se In-Game moderatori prepoznaju na terenu?",
-      "answer": "Dok promatraju nose plavi reflektirajući prsluk; kad aktivno interveniraju, nose žuti reflektirajući prsluk i vikaju „In Game moderator“."
-    },
-    {
-      "id": 51,
-      "category": "In-game moderatori i zapovjedništvo",
-      "question": "Kako se In-Game moderator vraća u normalnu igru nakon intervencije?",
-      "answer": "Odmakne se najmanje 100 metara, čeka 5 minuta, skine žuti prsluk i nastavi igrati."
-    },
-    {
-      "id": 52,
-      "category": "In-game moderatori i zapovjedništvo",
       "question": "Što se događa ako se igrač ozlijedi tijekom igre?",
       "answer": "Igra se odmah zaustavlja i obavještava se organizator koji odlučuje nastavlja li se susret."
     },
     {
-      "id": 53,
+      "id": 51,
       "category": "In-game moderatori i zapovjedništvo",
       "question": "Je li poštivanje lanca zapovijedanja obavezno?",
       "answer": "Da; 1. odbijanje: opomena + 60 minuta u MASH-u; 2. odbijanje: isključenje; ponavljanje: zabrana od 1 do 12 mjeseci."
     },
     {
-      "id": 54,
+      "id": 52,
       "category": "Laseri, vozila, štitovi i disciplina",
       "question": "Koje vrste lasera su dopuštene tijekom susreta?",
       "answer": "Samo tvornički laseri korišteni kao elementi scenarija."
     },
     {
-      "id": 55,
+      "id": 53,
       "category": "Laseri, vozila, štitovi i disciplina",
       "question": "Koja je maksimalna dopuštena brzina vozila na terenu?",
       "answer": "Najviše 25 km/h."
     },
     {
-      "id": 56,
+      "id": 54,
       "category": "Laseri, vozila, štitovi i disciplina",
       "question": "Kako se vozila eliminiraju tijekom igre?",
       "answer": "Pogotkom RPG/Zolja BB bacača, 40 mm granate, TAG granate ili eliminacijom vozača (bočni prozori vozača/suvozača moraju biti spušteni)."
     },
     {
-      "id": 57,
+      "id": 55,
       "category": "Laseri, vozila, štitovi i disciplina",
       "question": "Koji su parametri za taktičke štitove?",
       "answer": "Veliki (55–65 × 110–130 cm, ≥10 kg), srednji (50–55 × 95–105 cm, ≥7 kg), mali (45–50 × 85–90 cm, ≥5 kg); svi moraju imati otvor za gledanje."
     },
     {
-      "id": 58,
+      "id": 56,
       "category": "Laseri, vozila, štitovi i disciplina",
       "question": "Kako se uništava taktički štit?",
       "answer": "Izravnim pogotkom 40 mm granate ili RPG/Zolja bacača; nositelj štita također se smatra pogođenim."
